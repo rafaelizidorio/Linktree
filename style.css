@@ -132,7 +132,7 @@ main{
 
     padding: 20px;
 
-    border-radius: 40px;
+    border-radius: 40px 40px 0px 0px;
 
     margin-top: -34px;
 
