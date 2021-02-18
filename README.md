@@ -1,4 +1,4 @@
 # Linktree
-> Short blurb about what your product does.
+> Um linktree pessoal.
 
 Projeto feito para um desafio da @papodedev, no instagram.
